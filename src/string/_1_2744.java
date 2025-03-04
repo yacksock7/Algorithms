@@ -6,7 +6,7 @@ import java.io.*;
  *  대소문자 바꾸기
  */
 
-public class _2744 {
+public class _1_2744 {
     public static void main(String[] args) {
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
              BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out))) {
