@@ -14,8 +14,6 @@ import java.io.*;
  *  sample => aabbcc xxyybb
  *  result => 8
  */
-
-
 public class D2_1919 {
     public static void main(String[] args) {
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
