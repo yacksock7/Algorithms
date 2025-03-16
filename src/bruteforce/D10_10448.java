@@ -119,7 +119,7 @@ public class D10_10448 {
         }
 
 
-        int[] sumNumbers = new int[1000];
+        int[] sumNumbers = new int[1001];
         for (int i1 = 1; i1 < triangleNumbers.length; i1++) {
             for (int i2 = i1; i2 < triangleNumbers.length ; i2++) {
                 for (int i3 = i2; i3 < triangleNumbers.length ; i3++) {
